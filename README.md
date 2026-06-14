@@ -1,16 +1,17 @@
-## Hi there 👋
+A simple AI chatbot built using Streamlit, LangChain, and Groq API.
 
-<!--
-**ferdinand-sipasulta13/ferdinand-sipasulta13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Features
+- Interactive chat interface
+- IT support assistance
+- Conversation history
+- Groq API integration
 
-Here are some ideas to get you started:
+## Technologies
+- Python
+- Streamlit
+- LangChain
+- Groq API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Run Project
+
+streamlit run it_support_ai_assistant.py
