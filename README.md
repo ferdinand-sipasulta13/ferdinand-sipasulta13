@@ -13,4 +13,4 @@ A simple AI chatbot built using Streamlit, LangChain, and Groq API.
 - Groq API
 
 ## Run Project
-streamlit run it_support_ai_assistant.py
+streamlit run smart_it_support_chatbot.py
